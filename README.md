@@ -1,4 +1,4 @@
-### Hi there 👋✈️
+### Hi there 👋
 
 
 - 🔭 I’m currently working on little projects when I have some free time
