@@ -1,5 +1,5 @@
 # 💫 Simone - Data Science & ML
-🔭 MSc student @Bocconi<br>🌱 Passionate about Data science and ML<br>⚡ Fun fact: I love planes
+🔭 MSc student @Bocconi<br>🌱 Love building things and exploring new horizons<br>⚡ Fun fact: I love planes
 
 
 ## 🌐 Socials:
