@@ -1,10 +1,7 @@
 # 💫 Simone - Data Science & ML
 
-🔭 I'm an MSc student in Economic and Social Sciences at Bocconi University, focusing on applying machine learning to complex economic and business challenges.
+🔭 I'm an MSc student in Economics at Bocconi University, focusing on applying machine learning to complex business challenges.
 
-🌱 I'm currently a Research Assistant at Bocconi, where I'm building a 2TB financial dataset for market microstructure research.
-
-⚡ Previously, I was a Finance Analyst Intern at Amazon (Amazon Air EU), where I built automated ETL pipelines and analytics tools to save over 10 hours of manual work per week.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-de-giorgi-)
